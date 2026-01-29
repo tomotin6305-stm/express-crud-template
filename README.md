@@ -1,4 +1,6 @@
 # express-crud-template
+This repository was created as part of my backend fundamentals study.
+It focuses on structure and flow rather than feature completeness.
 
 A simple Express.js CRUD template created to understand
 basic backend architecture and responsibility separation.
